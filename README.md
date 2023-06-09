@@ -1,2 +1,3 @@
 # prueba-MainSoft
-Prueba MainSoft
+Esta prueba se ralizo con la siguiente configuración
+* hola
